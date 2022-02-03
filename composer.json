@@ -1,0 +1,13 @@
+{
+    "name": "idegart/presentation-php-generators",
+    "authors": [
+        {
+            "name": "idegart",
+            "email": "degtyarev_artem@mail.ru"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "illuminate/collections": "^8.82"
+    }
+}
